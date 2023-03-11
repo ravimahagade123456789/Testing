@@ -32,7 +32,7 @@ public class ArmstrongNumber {
 	}
 	if(no==arm)	
 		{
-			System.out.println("no is armstrong");
+			System.out.println("number is arm is armstrong");
 		}
 		
 		
